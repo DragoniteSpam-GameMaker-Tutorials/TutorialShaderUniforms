@@ -6,6 +6,4 @@ Shaders also have things called "samplers," which may be thought of as entire ex
 
 Video tutorial:
 
-[Replace this link please]
-
 [![YouTube](https://i.ytimg.com/vi/a2AqOYXpHcI/hqdefault.jpg)](https://youtu.be/a2AqOYXpHcI)
