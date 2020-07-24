@@ -1,4 +1,4 @@
-# Game Maker Studio 2.3 - Shader Uniforms
+# Game Maker Studio 2 - Shader Uniforms
 
 You can use uniform variables to pass additional information to shaders. Common things one might use uniforms for include a "time" parameter, extra position or color data, and many other things!
 
